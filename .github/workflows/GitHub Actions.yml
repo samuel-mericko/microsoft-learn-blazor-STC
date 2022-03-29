@@ -14,7 +14,7 @@ jobs:
       - name: Set up Node.js version
         uses: colmose/push-bot@v1.0.0
         with:
-            node-version: '12.x'
+            node-version: [12.x, 14.x, 16.x]
 
       - name: Perform install, build and start commands
         run: |
