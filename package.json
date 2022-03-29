@@ -17,7 +17,7 @@
     "url": "https://github.com/tadeas-drab/mslearn-github-repo/issues"
   },
   "homepage": "https://github.com/tadeas-drab/mslearn-github-repo#readme",
-  "dependencies": {
-    "typescript": "^4.2.4"
+  "devDependencies": {
+    "typescript": "^4.6.3"
   }
 }
