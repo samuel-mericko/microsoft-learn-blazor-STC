@@ -1,5 +1,6 @@
-Samuel Meričko
+# NodeJS ŠTC Project
 
-Študijný program: Build web applications with Blazor
-
-Odkaz na trofej: https://docs.microsoft.com/sk-sk/users/samuelmeriko-1286/achievements
+Commands in order:
+- npm install #Install project
+- tsc #Compile to JavaScript
+- npm run start #Start the project
